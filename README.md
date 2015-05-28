@@ -1,12 +1,12 @@
 # Exemplo de Jogo da Velha para Android
-### Widget abordados
+### Foi abordado
 
 * LinearLayout
 * Button
 * TextView
 * Toast
-
-### Tipos de variáveis abordadas
+* 
+#### Tipos de variáveis
 
 * String
 * Int
